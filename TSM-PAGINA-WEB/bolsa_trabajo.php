@@ -1,0 +1,1 @@
+<?php require_once('bolsa_trabajo/bolsa_trabajo.php'); ?>
